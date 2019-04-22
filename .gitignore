@@ -1,0 +1,8 @@
+*.class
+*.xml
+*.jar
+*.iml
+Challenge7.kotlin_module
+description.html
+*.kotlin_module
+*.name
